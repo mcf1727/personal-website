@@ -8,4 +8,4 @@ Link: https://mcf1727.github.io/personal-website
 - All CSS should be valid and follow best practices for naming conventions and organization
 - The website should be responsive and work on different screen sizes and devices
 
-<img width="600" alt="brif" src="https://github.com/mcf1727/personal-website/blob/main/assets/images/personal-page.png"/>
+<img width="700" alt="brif" src="https://github.com/mcf1727/personal-website/blob/main/assets/images/personal-page.png"/>
