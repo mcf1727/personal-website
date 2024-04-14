@@ -1,5 +1,5 @@
 # My personal website written in HTML/CSS
-Link: https://mcf1727.github.io/personal-website
+Website link: https://mcf1727.github.io/personal-website
 
 ## Deliverables
 - Markup by Canva: https://www.canva.com/design/DAF9DZsLt8w/CdjopThqYIrazuerrVcstw/edit?utm_content=DAF9DZsLt8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
